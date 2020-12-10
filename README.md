@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 ## Connect with me:
 
-[<img align="left" alt="saad-hassan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>][website]
 [<img align="left" alt="saad-hassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="saad-hassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="saad-hassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -22,9 +22,9 @@ Here are some ideas to get you started: -->
 
 
 
-[website]: http://saad-hassan.com/
-[twitter]: https://twitter.com/HaxxanSaad
-[instagram]: https://instagram.com/saadhaxxan
-[linkedin]: https://www.linkedin.com/in/saad-haxxan/
-[facebook]: https://www.facebook.com/saaadhaxxan
+[website]: http://my-portfilo-d78b3.web.app/
+[twitter]: https://twitter.com/Muhamma05909589
+[instagram]: https://www.instagram.com/zubair2880/
+[linkedin]: https://www.linkedin.com/in/muhammad-zubair-minhas-224541183/
+[facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
