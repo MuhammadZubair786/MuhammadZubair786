@@ -1,6 +1,5 @@
 ### Hi there 👋
-<!-- <img align="left" alt="Visual Studio Code" width="30px" src="./bio.gif" /> -->
-("./bio.gif")
+<img align="left" alt="Visual Studio Code" width="500px" src="./bio.gif" />
 
 
 **MuhammadZubair786/MuhammadZubair786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
