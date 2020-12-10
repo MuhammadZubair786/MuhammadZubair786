@@ -20,7 +20,6 @@ Here are some ideas to get you started: -->
 [<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
