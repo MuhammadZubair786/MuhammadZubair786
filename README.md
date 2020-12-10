@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate with other content creators and developers
 
 ## Connect with me:
-<hr />
+
 
 [<img align="left" alt="saad-hassan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>][twitter]
