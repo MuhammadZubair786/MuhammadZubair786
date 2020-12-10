@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Zubair Minhas 👋
-<br>
-### I'm a Developer, Teacher and Researcher!
+
+## I'm a Developer, Teacher and Researcher!
 <!-- <img align="left" alt="Visual Studio Code" width="500px" src="./bio.gif" /> -->
 
 
