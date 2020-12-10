@@ -19,3 +19,12 @@ Here are some ideas to get you started: -->
 [<img align="left" alt="saad-hassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="saad-hassan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
+
+[website]: http://saad-hassan.com/
+[twitter]: https://twitter.com/HaxxanSaad
+[instagram]: https://instagram.com/saadhaxxan
+[linkedin]: https://www.linkedin.com/in/saad-haxxan/
+[facebook]: https://www.facebook.com/saaadhaxxan
+
