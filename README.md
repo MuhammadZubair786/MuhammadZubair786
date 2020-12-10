@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Zubair Minhas 👋
 <br>
-## I'm a Developer, Teacher and Researcher!
-<img align="left" alt="Visual Studio Code" width="500px" src="./bio.gif" />
+### I'm a Developer, Teacher and Researcher!
+<!-- <img align="left" alt="Visual Studio Code" width="500px" src="./bio.gif" /> -->
 
 
 **MuhammadZubair786/MuhammadZubair786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
