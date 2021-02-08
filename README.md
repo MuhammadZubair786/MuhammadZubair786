@@ -52,4 +52,7 @@ Here are some ideas to get you started: -->
 [facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
 ### Github Stats
-![Hafiz Muhammad Attaullah's Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical)
+![Muhammad Zubair Minhas Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical)
+
+### Top Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMuhammadZubair786)](https://github.com/MuhammadZubair786/github-readme-stats)
