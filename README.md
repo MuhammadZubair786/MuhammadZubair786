@@ -31,6 +31,7 @@ Here are some ideas to get you started: -->
 <!-- <img align="left" alt="Angular" width="30px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/300/full/angular2.png" /> -->
 <!-- <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 <img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <!-- <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
 <!-- <img align="left" alt="MongoDB" width="30px" src="https://png.pngitem.com/pimgs/s/385-3850359_icon-mongodb-logo-hd-png-download.png" /> -->
@@ -50,3 +51,5 @@ Here are some ideas to get you started: -->
 [linkedin]: https://www.linkedin.com/in/muhammad-zubair-minhas-224541183/
 [facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
+### Github Stats
+![Hafiz Muhammad Attaullah's Github Stats](https://github-readme-stats.vercel.app/api?username=attaullahshafiq10&show_icons=true&theme=radical)
