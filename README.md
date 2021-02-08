@@ -52,4 +52,4 @@ Here are some ideas to get you started: -->
 [facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
 ### Github Stats
-![Hafiz Muhammad Attaullah's Github Stats](https://github-readme-stats.vercel.app/api?username=attaullahshafiq10&show_icons=true&theme=radical)
+![Hafiz Muhammad Attaullah's Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical)
