@@ -55,4 +55,4 @@ Here are some ideas to get you started: -->
 ![Muhammad Zubair Minhas Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical)
 
 ### Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMuhammadZubair786)](https://github.com/MuhammadZubair786/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZubair786)](https://github.com/MuhammadZubair786/github-readme-stats)
