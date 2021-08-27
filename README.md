@@ -51,7 +51,7 @@ Here are some ideas to get you started: -->
 [linkedin]: https://www.linkedin.com/in/muhammad-zubair-minhas-224541183/
 [facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
-### Github Stats
+###  Github Stats
 ![Muhammad Zubair Minhas Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical)
 
 ### Top Languages Card
