@@ -13,8 +13,6 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Backend with Javascript 
 - 👯 I’m looking to collaborate with other content creators and developers
 
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!-- <p align="center">
