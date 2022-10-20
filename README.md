@@ -38,11 +38,11 @@ Here are some ideas to get you started: -->
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 <p align="center">
-<!--   <img src="![Profile views](https://gpvc.arturio.dev/aishakhan0925)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aishakhan0925&style=flat&color=brightgreen"> •   <a href="https://user-badge.committers.top/pakistan/aishakhan0925"><img src="https://user-badge.committers.top/pakistan/aishakhan0925.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aishakhan0925?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/aishakhan0925?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/aishakhan0925"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+<!--   <img src="![Profile views](https://gpvc.arturio.dev/MuhammadZubair786)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=MuhammadZubair786&style=flat&color=brightgreen"> •   <a href="https://user-badge.committers.top/pakistan/MuhammadZubair786"><img src="https://user-badge.committers.top/pakistan/MuhammadZubair786.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MuhammadZubair786?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/MuhammadZubair786?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/MuhammadZubair786"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
 ## Connect with me:
