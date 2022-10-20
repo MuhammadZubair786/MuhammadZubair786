@@ -14,7 +14,6 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate with other content creators and developers
 
 <br>
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
