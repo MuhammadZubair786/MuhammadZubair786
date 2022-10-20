@@ -13,6 +13,9 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Backend with Javascript 
 - 👯 I’m looking to collaborate with other content creators and developers
 
+<br>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!-- <p align="center">
@@ -45,13 +48,6 @@ Here are some ideas to get you started: -->
   <a href="https://github.com/sponsors/MuhammadZubair786"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-## Connect with me:
-
-
-[<img align="left" alt="saad-hassan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>][twitter]
-[<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
-[<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
 
 ### Languages and Tools:
 
@@ -91,3 +87,10 @@ Here are some ideas to get you started: -->
 ### Top Languages Card
 <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadZubair786&layout=compact&langs_count=8&theme=algolia"/>
 
+## Connect with me:
+
+
+[<img align="left" alt="saad-hassan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>][twitter]
+[<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
