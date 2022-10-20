@@ -54,7 +54,7 @@ Here are some ideas to get you started: -->
 [facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
 ###  Github Stats
-![Muhammad Zubair Minhas Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical)
+![Muhammad Zubair Minhas Github Stats]([https://github-readme-stats.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=radical](https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadZubair786&show_icons=true&theme=algolia&include_all_commits=true&count_private=true))
 
 ### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZubair786)](https://github.com/MuhammadZubair786/github-readme-stats)
