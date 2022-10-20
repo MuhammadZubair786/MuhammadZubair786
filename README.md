@@ -57,5 +57,5 @@ Here are some ideas to get you started: -->
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aishakhan0925&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ### Top Languages Card
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadZubair786&layout=compact&langs_count=8&theme=algolia"/>
+<img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadZubair786&layout=compact&langs_count=8&theme=algolia"/>
 
