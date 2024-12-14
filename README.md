@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=annasshah](https://github-profile-trophy.vercel.app/?username=MuhammadZubair786)" alt="annasshah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadZubair786" alt="MuhammadZubair786" /></a> </p>
 
 <!-- #
 
