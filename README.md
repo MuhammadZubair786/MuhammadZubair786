@@ -84,6 +84,11 @@ Here are some ideas to get you started: -->
 ### Top Languages Card
 <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadZubair786&layout=compact&langs_count=8&theme=algolia"/>
 
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annasshah&" alt="annasshah" /></p>
+
+
 ## Connect with me:
 
 
