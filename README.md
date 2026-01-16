@@ -90,3 +90,11 @@ Here are some ideas to get you started: -->
 [<img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
+
+
+<div align="center" dir="auto">
+<blockquote>
+<p dir="auto"><em>"Code with purpose. Build with empathy. Grow globally."</em><br>
+— Muhammad Zubair Minhas 💻🌍✨</p>
+</blockquote>
+</div>
