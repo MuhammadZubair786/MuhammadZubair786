@@ -14,10 +14,12 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate with other content creators and developers
 
 
+
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZubair786&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)
+
+
 <!-- #
-
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
