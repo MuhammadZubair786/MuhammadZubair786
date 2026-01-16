@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZubair786&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)
+
 
 
 <!-- #
@@ -73,7 +73,7 @@ Here are some ideas to get you started: -->
 [facebook]: https://web.facebook.com/profile.php?id=100010093773879
 
 ###  Github Stats
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aishakhan0925&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZubair786&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)
 
 ### Top Languages Card
 <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadZubair786&layout=compact&langs_count=8&theme=algolia"/>
